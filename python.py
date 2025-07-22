@@ -1,5 +1,3 @@
-
-
 word="python"
 
 for i in range(len(word)):
